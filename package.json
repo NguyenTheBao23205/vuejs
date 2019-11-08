@@ -4,10 +4,10 @@
   "private": true,
   "homepage": "https://NguyenTheBao23205.github.io/vuejs/",
   "scripts": {
-    "deploy": "gh-pages -d build",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
